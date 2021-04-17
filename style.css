@@ -1,0 +1,13 @@
+body{
+	font-family: 'Syne Mono', monospace;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top: 15%;
+	background-image: linear-gradient(to right, red , yellow);
+}
+
+h3{
+	font-family: 'Syne Mono', monospace;
+	font-size: 80%;
+}
